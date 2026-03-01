@@ -64,6 +64,8 @@ Assim, você pode assistir offline ou compartilhar quando quiser.
 * App para salvar vídeos do Kwai
 * Video Downloader for Kwai
 
+Quer baixar vídeos em HD do Kwai sem marca d'água? Basta copiar o link do vídeo que você quer baixar, abrir o kwibo - app de baixar vídeo do Kwai sem marca d’água e pronto! O video será baixado imediatamente.
+
 Se você quer um **aplicativo confiável para baixar vídeo do Kwai sem marca d’água**, o Kwibo é a melhor escolha.
 
 ---
